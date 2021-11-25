@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/accordeon-react/static/css/main.6fd482e4.chunk.css",
+    "main.js": "/accordeon-react/static/js/main.0b7793da.chunk.js",
+    "main.js.map": "/accordeon-react/static/js/main.0b7793da.chunk.js.map",
+    "runtime-main.js": "/accordeon-react/static/js/runtime-main.ee1ce1b5.js",
+    "runtime-main.js.map": "/accordeon-react/static/js/runtime-main.ee1ce1b5.js.map",
+    "static/js/2.6bdea146.chunk.js": "/accordeon-react/static/js/2.6bdea146.chunk.js",
+    "static/js/2.6bdea146.chunk.js.map": "/accordeon-react/static/js/2.6bdea146.chunk.js.map",
+    "static/js/3.fd4d5fa1.chunk.js": "/accordeon-react/static/js/3.fd4d5fa1.chunk.js",
+    "static/js/3.fd4d5fa1.chunk.js.map": "/accordeon-react/static/js/3.fd4d5fa1.chunk.js.map",
+    "index.html": "/accordeon-react/index.html",
+    "static/css/main.6fd482e4.chunk.css.map": "/accordeon-react/static/css/main.6fd482e4.chunk.css.map",
+    "static/js/2.6bdea146.chunk.js.LICENSE.txt": "/accordeon-react/static/js/2.6bdea146.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee1ce1b5.js",
+    "static/js/2.6bdea146.chunk.js",
+    "static/css/main.6fd482e4.chunk.css",
+    "static/js/main.0b7793da.chunk.js"
+  ]
+}
